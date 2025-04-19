@@ -1,3 +1,5 @@
+[![OsCrop banner](https://github.com/osmanvision/OsCrop/raw/main/oscrop-banner.png)](https://github.com/osmanvision/OsCrop)
+
 # 🖼️ OsCrop
 
 **OsCrop** is a simple yet powerful open-source tool for:
