@@ -1,4 +1,4 @@
-[![OsCrop banner](https://github.com/osmanvision/OsCrop/raw/main/oscrop-banner.png)](https://github.com/osmanvision/OsCrop)
+[![OsCrop banner](https://github.com/osmanvision/OsCrop/blob/main/oscrop_banner.png)](https://github.com/osmanvision/OsCrop)
 
 # 🖼️ OsCrop
 
