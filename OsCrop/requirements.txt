@@ -1,0 +1,21 @@
+# 🧪 Requirements for OsCrop
+
+This file lists the Python packages required to run OsCrop tools.
+
+If you're only using the background remover (`oscrop_bg_remover.py`), you only need:
+```
+rembg
+```
+
+If you're using the full pipeline (`oscrop_full.py`) or any of the crop tools, install all:
+```
+rembg
+opencv-python
+pillow
+numpy
+```
+
+Install using pip:
+```bash
+pip install -r requirements.txt
+```
