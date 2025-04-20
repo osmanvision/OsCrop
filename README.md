@@ -154,6 +154,8 @@ For commercial licensing, contact: heyosmanvision@gmail.com
 
 **Instagram**: [@osman\_vision](https://www.instagram.com/osman_vision)\
 **Email**: [heyosmanvision@gmail.com](mailto:heyosmanvision@gmail.com)
+- Discord: osman_vision
+
 
 ---
 
